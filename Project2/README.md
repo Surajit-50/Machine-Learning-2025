@@ -57,3 +57,5 @@ Each model was evaluated using:
 ## 📁 Project Structure
 📦 Heart Disease Prediction ├── 📄 p1.ipynb # Main Jupyter Notebook ├── 📄 README.md # Project overview
 
+> ⚠️ This project is for educational purposes only and should not be used for medical decision-making.
+
